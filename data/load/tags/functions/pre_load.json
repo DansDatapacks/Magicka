@@ -1,0 +1,7 @@
+{
+    "values": [
+        "sourcecraft.2:on_event/on_pre_load",
+        "extended_magic.1:on_event/on_pre_load",
+        "magicka.2:on_event/on_pre_load"
+    ]
+}

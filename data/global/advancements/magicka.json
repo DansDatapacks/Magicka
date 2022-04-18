@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Magicka",
+    "description": "Spellcasting in Minecraft!",
+    "icon": {
+			"item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{CustomModelData:300000}"
+    },
+    "background": "minecraft:textures/block/black_concrete_powder.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:danmizu",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
